@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493264244 source:d:\program file\cprograme\all_sort\sort_func.c
+	<stdio.h>
+	<stdlib.h>
+
+1493265168 source:d:\program file\cprograme\all_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"sort_func.h"
+
+1493259877 d:\program file\cprograme\all_sort\sort_func.h
+
